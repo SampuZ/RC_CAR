@@ -10,7 +10,7 @@ const char* pw = "12345678";  //Your Wifi Password
 */
 
 char* ssid = "DreamBox"; //your hotspot Name
-char* pw = "7278586370";  //Your hotspot Password
+char* pw = "XXXXXXX";  //Your hotspot Password
 
 
 int BAUD_RATE=9600;
